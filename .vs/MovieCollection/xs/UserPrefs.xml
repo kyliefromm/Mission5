@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{B207482B-E907-422A-AE55-156EEC417463}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieCollection/Views/Home/MovieForm.cshtml">
+    <Files>
+      <File FileName="MovieCollection/Models/MovieFormContext.cs" Line="18" Column="13" IsPinned="True" />
+      <File FileName="MovieCollection/Controllers/HomeController.cs" IsPinned="True" />
+      <File FileName="MovieCollection/Views/Home/MovieForm.cshtml" Line="16" Column="55" />
+      <File FileName="MovieCollection/Models/MovieForm.cs" Line="29" Column="8" />
+      <File FileName="MovieCollection/Models/Movies.cs" Line="12" Column="2" />
+      <File FileName="MovieCollection/Views/Home/Confirmation.cshtml" Line="1" Column="1" />
+      <File FileName="MovieCollection/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="MovieCollection/Views/Home/MovieList.cshtml" Line="13" Column="30" />
+      <File FileName="MovieCollection/Views/Home/Podcast.cshtml" />
+      <File FileName="MovieCollection/Program.cs" />
+      <File FileName="MovieCollection/Views/Home/Delete.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieCollection" expanded="True">
+            <Node name="MovieCollection" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="MovieForm.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>FormContext.Responses.Include(x =&gt; x.Movies)
+                .OrderBy(x =&gt; x.Category)
+                .ToList()</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MovieCollection PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
